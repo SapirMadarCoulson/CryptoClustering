@@ -1,8 +1,5 @@
 # CryptoClustering
 
-
-# CryptoClustering
-
 ## Project Overview
 CryptoClustering is a machine learning project that applies clustering algorithms to analyze cryptocurrency data. The goal is to identify patterns and similarities among cryptocurrencies based on market performance metrics.
 
